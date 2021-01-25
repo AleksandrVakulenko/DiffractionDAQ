@@ -1,3 +1,4 @@
 Debug LOGs/*
-!null_LOG.txt
+
 *.txt
+!null_LOG.txt

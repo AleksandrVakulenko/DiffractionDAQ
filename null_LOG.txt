@@ -1,0 +1,1 @@
+N	Date	Time	Ch1,V	Ch2,V	Ch3,V	Ch4,V	Current,mA	Voltage,V	Field,kV/cm	FrameN	RunN	Trig	TrigTime, s	CurrentError
